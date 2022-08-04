@@ -1,0 +1,8 @@
+#+STARTUP: showall
+
+* Documentation:
+  - [[https://www.kernel.org/doc/Documentation/input/event-codes.txt][Kernel.org documentation]]
+
+* Flight Modes:
+  - [[https://en.wikipedia.org/wiki/Flight_control_modes#Ground_mode][Flight Control Modes]]
+
